@@ -14,15 +14,6 @@
 
 ## 🚀 About Me
 
-```javascript
-const akshat = {
-    currentFocus: ["Spring & Flask Development", "Machine Learning", "AI"],
-    expertise: ["Java", "Python", "C++", "Spring", "Flask", "TensorFlow"],
-    currentWork: "Building innovative projects",
-    email: "akshtraj873@gmail.com",
-    funFact: "Turning coffee into code since forever ☕"
-};
-```
 
 - 🔭 **Currently working on:** Personal projects and learning new technologies
 - 🌱 **Learning:** Spring & Flask application development, Machine Learning, AI
